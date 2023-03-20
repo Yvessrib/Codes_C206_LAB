@@ -18,6 +18,7 @@ public class Main {
         boolean flag = true;
 
         while (flag) {
+
             System.out.println("Bem vindo a escola: " + e1.nome);
             System.out.println("1 - Cadastrar novo aluno");
             System.out.println("2 - Mostrar informações dos alunos");

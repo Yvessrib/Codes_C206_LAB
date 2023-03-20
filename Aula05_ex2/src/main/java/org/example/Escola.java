@@ -8,8 +8,6 @@ public class Escola {
     String endereco;
     Estudante[] estudantes = new Estudante[300];
 
-
-
     public void addEstudante (Estudante estudante){
         for(int i = 0; i < estudantes.length; i++){
             if(estudantes[i] == null){
