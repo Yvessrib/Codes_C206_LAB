@@ -26,6 +26,6 @@ public class Serie {
         else{
             System.out.println("Status: Incompleta");
         }
-        System.out.println("Diretor: " );
+        System.out.println("Diretor: " + diretor.nome);
     }
 }
