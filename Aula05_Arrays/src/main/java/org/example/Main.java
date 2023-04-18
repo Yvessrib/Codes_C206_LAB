@@ -18,7 +18,7 @@ public class Main {
 
         boolean flag = true;
 
-        while(flag){
+        while(flag){1
             System.out.println("BEM VINDO AO MENU DA BIBLIOTECA: " + b1.nome);
             System.out.println("1 - Cadastrar novo livro");
             System.out.println("2 - Mostrar informacoes livros");
