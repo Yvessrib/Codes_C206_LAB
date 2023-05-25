@@ -1,0 +1,12 @@
+--- Jogo ---
+Hollow Knight
+40.0
+Metroidvania
+--- Jogo ---
+The Witcher
+90.0
+RPG
+--- Jogo ---
+Outlast
+30.0
+Terror

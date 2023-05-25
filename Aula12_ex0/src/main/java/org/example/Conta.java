@@ -1,7 +1,5 @@
 package org.example;
 
-import java.nio.channels.SelectableChannel;
-
 public class Conta {
 
     private int saldo;
